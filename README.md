@@ -5,7 +5,7 @@ Safe bindings for DirectX 11 made with Microsoft's com crate. Used in Enamorf en
 
 ## License
 
-* Rust crate indirect11 is an project and not affiliated with Microsoft Corporation.
+* Rust crate indirect11 is not affiliated with Microsoft Corporation.
 * MIT license ([LICENSE-MIT] or http://opensource.org/licenses/MIT)
 
 [LICENSE-MIT]: LICENSE-MIT
