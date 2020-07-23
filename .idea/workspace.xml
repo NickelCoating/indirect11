@@ -13,16 +13,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de02cb9-5b15-49c6-ad7f-a193a7868cce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/indirect11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE-MIT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/indirect11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/indirect11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +67,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,26 +76,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595437041084</updated>
-      <workItem from="1595437042578" duration="1616000" />
+      <workItem from="1595437042578" duration="2931000" />
+      <workItem from="1595482056010" duration="12647000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1096" height="742" key="GridCell.Tab.0.bottom" timestamp="1595437382306">
+    <state width="1096" height="1312" key="GridCell.Tab.0.bottom" timestamp="1595518075166">
       <screen x="72" y="0" width="3368" height="1440" />
     </state>
-    <state width="1096" height="742" key="GridCell.Tab.0.bottom/72.0.3368.1440/720.1440.1920.1040@72.0.3368.1440" timestamp="1595437382306" />
-    <state width="1096" height="742" key="GridCell.Tab.0.center" timestamp="1595437382306">
+    <state width="1096" height="1312" key="GridCell.Tab.0.bottom/72.0.3368.1440/720.1440.1920.1040@72.0.3368.1440" timestamp="1595518075166" />
+    <state width="1096" height="1312" key="GridCell.Tab.0.center" timestamp="1595518075166">
       <screen x="72" y="0" width="3368" height="1440" />
     </state>
-    <state width="1096" height="742" key="GridCell.Tab.0.center/72.0.3368.1440/720.1440.1920.1040@72.0.3368.1440" timestamp="1595437382306" />
-    <state width="1096" height="742" key="GridCell.Tab.0.left" timestamp="1595437382306">
+    <state width="1096" height="1312" key="GridCell.Tab.0.center/72.0.3368.1440/720.1440.1920.1040@72.0.3368.1440" timestamp="1595518075166" />
+    <state width="1096" height="1312" key="GridCell.Tab.0.left" timestamp="1595518075166">
       <screen x="72" y="0" width="3368" height="1440" />
     </state>
-    <state width="1096" height="742" key="GridCell.Tab.0.left/72.0.3368.1440/720.1440.1920.1040@72.0.3368.1440" timestamp="1595437382306" />
-    <state width="1096" height="742" key="GridCell.Tab.0.right" timestamp="1595437382306">
+    <state width="1096" height="1312" key="GridCell.Tab.0.left/72.0.3368.1440/720.1440.1920.1040@72.0.3368.1440" timestamp="1595518075166" />
+    <state width="1096" height="1312" key="GridCell.Tab.0.right" timestamp="1595518075166">
       <screen x="72" y="0" width="3368" height="1440" />
     </state>
-    <state width="1096" height="742" key="GridCell.Tab.0.right/72.0.3368.1440/720.1440.1920.1040@72.0.3368.1440" timestamp="1595437382306" />
+    <state width="1096" height="1312" key="GridCell.Tab.0.right/72.0.3368.1440/720.1440.1920.1040@72.0.3368.1440" timestamp="1595518075166" />
   </component>
 </project>
