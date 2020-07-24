@@ -3,7 +3,7 @@ Hand written bindings for DirectX 11 made with Microsoft's com crate. For the le
 
 **NOTE** Currently not usable. Can't even do screen refresh.
 
-##Points to Remember
+## Points to Remember
 NOTE that com crate is still in development and will change a lot. No need to rush. MS may make its own bindings perhaps anyways. Also a code gen is smarter than hand work.
 
 * Com interface GUIDs are in hex format of 8-4-4-4-12 characters with a total of 32 characters.
@@ -16,7 +16,7 @@ NOTE that com crate is still in development and will change a lot. No need to ru
 * The com_interface attribute does inform about usage of its interface below.Lack of unsafe functions, of '&self', lack of a specific function name among other, they are all reported and cause a build fail.
 * CLSID are used by create_instance. Some of them can be found in crate dxguid-sys.
 
-##Questions
+## Questions
 * Are structs just defined like normal Rust structs?
 * Are constants defined like normal Rust constants? Guess, yes.
 * Are enums defined like normal Rust enums? Guess, yes.
