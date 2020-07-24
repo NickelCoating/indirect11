@@ -1,5 +1,5 @@
 # indirect11
-Hand written safe bindings for DirectX 11 made with Microsoft's com crate. Used in Enamorf engine for prototyping.
+Hand written bindings for DirectX 11 made with Microsoft's com crate. For the learning experience.
 
 **NOTE** Currently not usable. Can't even do screen refresh.
 
