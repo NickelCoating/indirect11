@@ -32,6 +32,8 @@ impl Indirect11
     {
         init_runtime().unwrap();
 
+        println!("Print this only for testing cargo and git dependencies now.");
+
         Ok(Indirect11 {})
     }
 }
